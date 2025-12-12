@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/blob/main/Untitled_file_20251213074454.gif" width="800">
+  <img src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/Untitled_file_20251213074454.gif" width="800">
 </p>
 
 # 👋 About Me
