@@ -1,12 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/Untitled_file_20251213074454.gif" width="800">
+</p>
 # 👋 About Me
 Hi! I'm **Sayna** — an AI enthusiast focusing on **Deep Learning**, **Computer Vision**, and **Multimodal Fusion**.  
 I love implementing research papers, optimizing models, and working on audio–visual emotion recognition and X-ray detection tasks.
 
 ---
 # 🛠 Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/Untitled_file_20251213074454.gif" width="800">
-</p>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
