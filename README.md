@@ -1,9 +1,10 @@
-<img 
-  src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/wave_line_20251213192748.gif"
-  width="1000"
-  height="500"
-  align="center"
-/>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/wave_line_20251213192748.gif"
+    width="800"
+    alt="Wave Line Animation"
+  />
+</p>
 <!-- NAME -->
 <h1 align="center">Sayna Sarvar</h1>
 
