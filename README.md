@@ -4,10 +4,10 @@
   align="right"
 />
 
-<div align="center" style="margin-top: 120px;">
+<div align="center" style="margin-top: 160px;">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F78E22&center=true&vCenter=true&width=600&lines=AI+and+Computer+Vision+Researcher"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F78E22&center=true&width=600&lines=AI+and+Computer+Vision+Researcher"
   alt="AI and Computer Vision Researcher"
 />
 
