@@ -3,13 +3,9 @@
 <td width="60%" valign="middle">
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=32&
-  pause=1000&
-  color=00C4FF&
-  width=500&
-  lines=Sayna+Sarvar;AI+Researcher;Deep+Learning+%7C+Computer+Vision;Multimodal+AI" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F78E22&width=435&lines=Sayna+Sarvar;AI+And+Computer+Vision+Researcher)](https://git.io/typing-svg)
+
 </p>
 
 </td>
@@ -21,7 +17,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 # 👋 About Me
