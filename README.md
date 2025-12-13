@@ -1,19 +1,19 @@
-<img 
-  src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/profile.gif"
-  width="350"
-  align="center"
-/>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/profile.gif"
+    width="350"
+    alt="Profile GIF"
+  />
+</p>
 
-<div align="center" style="margin-top: 130px;">
+<br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F78E22&center=true&width=600&lines=AI+and+Computer+Vision+Researcher"
-  alt="AI and Computer Vision Researcher"
-/>
-
-</div>
-
-<br clear="right"/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F78E22&center=true&width=600&lines=AI+and+Computer+Vision+Researcher"
+    alt="AI and Computer Vision Researcher"
+  />
+</p>
 
 # 👋 About Me
 Hi! I'm **Sayna** — an AI enthusiast focusing on **Deep Learning**, **Computer Vision**, and **Multimodal Fusion**.  
