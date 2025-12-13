@@ -71,20 +71,18 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 - **Datasets:** CREMA-D, RAVDESS  
 
 ---
----
 
 # 🚀 Currently Working On
-- Building audio–visual emotion recognition pipelines  
 - Implementing transformer-based fusion models  
 - Training lightweight versions on single-GPU setups  
-- Exploring efficient model architectures for X-ray object detection (Tran2Ray-like)
+- Implementing **object detection from X-ray baggage images** using the **DVXray dataset**, applying **Tran2Ray** for my final **Bachelor's project**
 
 ---
 
 # 📫 Contact Me
-- **GitHub:** your-username  
-- **Email:** your-email  
-- **LinkedIn:** (optional)  
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaynaSarvar)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.sayna.sarvar032gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sayna-sarvar-b0764b277/)
 Feel free to reach out for collaborations or research discussions!
 
