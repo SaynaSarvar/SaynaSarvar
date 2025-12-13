@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F78E22&width=600&lines=Sayna+Sarvar" alt="Sayna Sarvar"/>
-</p>
 <!-- RIGHT IMAGE -->
 <img 
   src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/profile.gif"
