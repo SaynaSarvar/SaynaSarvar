@@ -51,7 +51,7 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 # 🔬 Research Areas & Selected Papers
 
 ## 1️⃣ Robust Deepfake Detection
-**Paper:** *A Dual-Modality Spatio-Temporal and Frequency Framework for Robust Deepfake Detection*
+**📝Paper:** *A Dual-Modality Spatio-Temporal and Frequency Framework for Robust Deepfake Detection*
 
 - **Video modality:** SFormer for spatio-temporal features  
 - **Frequency modality:** WaveFormer using Haar-based 2D Discrete Wavelet Transform (2D-DWT)  
@@ -62,7 +62,7 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 ---
 
 ## 2️⃣ Multimodal Emotion Recognition
-**Paper:** *[Your Project/Study Title]*
+**📝Paper:** *Audio–Visual Emotion Recognition*
 
 - **Spatial modality:** Swin-Tiny Transformer for visual features  
 - **Audio modality:** Wav2Vec2 for speech features  
