@@ -8,10 +8,14 @@
   align="right"
 />
 
-<!-- TYPING TEXT -->
+<!-- VERTICAL SPACING -->
+<br><br><br><br><br>
+
+<!-- TYPING TEXT (CENTERED VERTICALLY) -->
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F78E22&width=500&lines=AI+And+Computer+Vision+Researcher"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F78E22&width=520&lines=AI+and+Computer+Vision+Researcher"
+    alt="AI and Computer Vision Researcher"
   />
 </p>
 
