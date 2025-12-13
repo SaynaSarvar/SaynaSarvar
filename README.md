@@ -86,5 +86,5 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayna-sarvar-b0764b277/)
 
 
-Feel free to reach out for collaborations or research discussions!
+🚀Feel free to reach out for collaborations or research discussions!
 
