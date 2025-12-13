@@ -1,7 +1,7 @@
 <img 
   src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/profile.gif"
   width="350"
-  align="right"
+  align="center"
 />
 
 <div align="center" style="margin-top: 130px;">
