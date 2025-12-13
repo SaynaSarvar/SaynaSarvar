@@ -1,20 +1,15 @@
-<!-- NAME (STATIC, BIG) -->
+<!-- NAME -->
 <h1 align="center">Sayna Sarvar</h1>
 
-<!-- SECOND ROW -->
-<table>
-<tr>
+<table style="border:none;">
+<tr style="border:none;">
 
-<td width="50%" align="center">
-
+<td style="border:none;" width="50%" align="center">
 <img src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/profile.gif" width="350"/>
-
 </td>
 
-<td width="50%" valign="middle">
-
+<td style="border:none;" width="50%" align="left">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F78E22&width=435&lines=AI+And+Computer+Vision+Researcher)](https://git.io/typing-svg)
-
 </td>
 
 </tr>
