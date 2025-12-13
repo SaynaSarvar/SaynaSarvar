@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/wave_line_20251213192748.gif" width="800" alt="Wave Line"/>
-<h1 align="center">Sayna Sarvar</h1>
+<h1 align="center">
+  <span style="color:#F78E22">Sayna Sarvar</span>
+</h1>
 <!-- RIGHT IMAGE -->
 <img 
   src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/profile.gif"
