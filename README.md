@@ -9,16 +9,8 @@
 </td>
 
 <td width="50%" align="left">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  weight=700&
-  size=26&
-  pause=1000&
-  color=F78E22&
-  width=500&
-  lines=AI+And+Computer+Vision+Researcher" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F78E22&width=435&lines=AI+And+Computer+Vision+Researcher)](https://git.io/typing-svg)
 </td>
-
 </tr>
 </table>
 
