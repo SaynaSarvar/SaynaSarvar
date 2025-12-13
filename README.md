@@ -1,6 +1,26 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/profile.gif" width="800">
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=32&
+  pause=1000&
+  color=00C4FF&
+  width=500&
+  lines=Sayna+Sarvar;AI+Researcher;Deep+Learning+%7C+Computer+Vision;Multimodal+AI" />
 </p>
+
+</td>
+
+<td width="40%" align="right">
+
+<img src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/profile.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
