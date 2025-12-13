@@ -1,6 +1,6 @@
 <img 
   src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/wave_line_20251213192748.gif"
-  width="350"
+  width="50"
   align="center"
 />
 <!-- NAME -->
