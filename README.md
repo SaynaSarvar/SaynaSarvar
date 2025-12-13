@@ -9,8 +9,12 @@
 </td>
 
 <td width="50%" align="left">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F78E22&width=435&lines=AI+And+Computer+Vision+Researcher)](https://git.io/typing-svg)
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F78E22&width=500&lines=AI+And+Computer+Vision+Researcher"
+    alt="AI and Computer Vision Researcher"
+  />
 </td>
+
 </tr>
 </table>
 
