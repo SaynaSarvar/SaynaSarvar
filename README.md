@@ -1,7 +1,7 @@
 <img 
   src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/wave_line_20251213192748.gif"
-  width="350"
-  height="100"
+  width="550"
+  height="200"
   align="center"
 />
 <!-- NAME -->
