@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/Untitled_file_20251213074454.gif" width="800">
 </p>
+
+---
+
 # 👋 About Me
 Hi! I'm **Sayna** — an AI enthusiast focusing on **Deep Learning**, **Computer Vision**, and **Multimodal Fusion**.  
 I love implementing research papers, optimizing models, and working on audio–visual emotion recognition and X-ray detection tasks.
