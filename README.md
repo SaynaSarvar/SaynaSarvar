@@ -48,13 +48,29 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 
 ---
 
-# 🔬 Research Areas
-- Multimodal Emotion Recognition (Audio + Video)  
-- Computer Vision (ViT, CNNs, detection models)  
-- X-ray object detection & preprocessing  
-- Transformer-based architectures  
-- Model optimization, MACs, and lightweight design
+# 🔬 Research Areas & Selected Papers
 
+## 1️⃣ Robust Deepfake Detection
+**Paper:** *A Dual-Modality Spatio-Temporal and Frequency Framework for Robust Deepfake Detection*
+
+- **Video modality:** SFormer for spatio-temporal features  
+- **Frequency modality:** WaveFormer using Haar-based 2D Discrete Wavelet Transform (2D-DWT)  
+- **Fusion:** MLP-Mixer  
+- **Task:** Deepfake detection  
+- **Datasets:** FaceForensics++ (FF++), Celeb-DF  
+
+---
+
+## 2️⃣ Multimodal Emotion Recognition
+**Paper:** *[Your Project/Study Title]*
+
+- **Spatial modality:** Swin-Tiny Transformer for visual features  
+- **Audio modality:** Wav2Vec2 for speech features  
+- **Fusion:** Cross-Attention mechanism  
+- **Task:** Emotion recognition  
+- **Datasets:** CREMA-D, RAVDESS  
+
+---
 ---
 
 # 🚀 Currently Working On
