@@ -1,6 +1,6 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="55%" valign="middle">
+<td width="55%" valign="middle" style="border: none;">
 
 <p align="center">
   <img
@@ -11,7 +11,7 @@
 
 </td>
 
-<td width="45%" align="right">
+<td width="45%" align="right" style="border: none;">
 
 <img 
   src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/profile.gif"
