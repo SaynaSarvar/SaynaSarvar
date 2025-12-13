@@ -14,9 +14,9 @@
 <!-- TYPING TEXT (CENTERED VERTICALLY) -->
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F78E22&width=520&lines=AI+and+Computer+Vision+Researcher+"
-    alt="AI and Computer Vision Researcher"
-  />
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F78E22&width=700&lines=AI+and+Computer+Vision+Researcher"
+  alt="AI and Computer Vision Researcher"
+/>
 </p>
 
 <br clear="right"/>
