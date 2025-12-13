@@ -1,24 +1,21 @@
 <!-- NAME -->
 <h1 align="center">Sayna Sarvar</h1>
 
-<table>
-<tr>
+<!-- RIGHT IMAGE -->
+<img 
+  src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/profile.gif"
+  width="350"
+  align="right"
+/>
 
-<td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/SaynaSarvar/SaynaSarvar/main/profile.gif" width="350"/>
-</td>
-
-<td width="50%" align="left">
+<!-- TYPING TEXT -->
+<p align="left">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F78E22&width=500&lines=AI+And+Computer+Vision+Researcher"
-    alt="AI and Computer Vision Researcher"
   />
-</td>
+</p>
 
-</tr>
-</table>
-
-<br/>
+<br clear="right"/>
 
 # 👋 About Me
 Hi! I'm **Sayna** — an AI enthusiast focusing on **Deep Learning**, **Computer Vision**, and **Multimodal Fusion**.  
