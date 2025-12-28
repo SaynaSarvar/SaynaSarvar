@@ -62,7 +62,7 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 ---
 
 ## 2️⃣ Multimodal Emotion Recognition
-**📝Paper:** *Audio–Visual Emotion Recognition*
+**📝Paper:** *Transformer-Based Multimodal Learning for Audio-Visual Emotion Recognition*
 
 - **Spatial modality:** Swin-Tiny Transformer for visual features  
 - **Audio modality:** Wav2Vec2 for speech features  
@@ -74,7 +74,6 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 
 # 🚀 Currently Working On
 - Implementing transformer-based fusion models  
-- Training lightweight versions on single-GPU setups  
 - Implementing **object detection from X-ray baggage images** using the **DVXray dataset**, applying **Tran2Ray** for my final **Bachelor's project**
 
 ---
