@@ -72,12 +72,6 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 
 ---
 
-# 🚀 Currently Working On
-- Implementing transformer-based fusion models  
-- Implementing **object detection from X-ray baggage images** using the **DVXray dataset**, applying **Tran2Ray** for my final **Bachelor's project**
-
----
-
 # 📫 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaynaSarvar)  
