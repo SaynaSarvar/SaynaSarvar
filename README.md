@@ -46,31 +46,82 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+# 📄 Publications
 
-# 🔬 Research Areas & Selected Papers
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 1️⃣ Robust Deepfake Detection
-**📝Paper:** *A Dual-Modality Spatio-Temporal and Frequency Framework for Robust Deepfake Detection*
+<h2>🎭 Audio–Visual Emotion Recognition</h2>
 
-- **Video modality:** SFormer for spatio-temporal features  
-- **Frequency modality:** WaveFormer using Haar-based 2D Discrete Wavelet Transform (2D-DWT)  
-- **Fusion:** MLP-Mixer  
-- **Task:** Deepfake detection  
-- **Datasets:** FaceForensics++ (FF++), Celeb-DF  
+<h3>Signal, Image and Video Processing · <i>Springer, 2026</i></h3>
 
----
+<p>
+Bidirectional joint cross-attention fusion of a 
+<strong>Swin Transformer</strong> and <strong>Wav2Vec 2.0</strong>, 
+letting audio and visual streams refine each other.
+</p>
 
-## 2️⃣ Multimodal Emotion Recognition
-**📝Paper:** *Transformer-Based Multimodal Learning for Audio-Visual Emotion Recognition*
+<table>
+<tr>
+<th>Dataset</th>
+<th>Accuracy</th>
+</tr>
+<tr>
+<td>RAVDESS</td>
+<td><strong>94.80%</strong></td>
+</tr>
+<tr>
+<td>CREMA-D</td>
+<td><strong>85.23%</strong></td>
+</tr>
+</table>
 
-- **Spatial modality:** Swin-Tiny Transformer for visual features  
-- **Audio modality:** Wav2Vec2 for speech features  
-- **Fusion:** Cross-Attention mechanism  
-- **Task:** Emotion recognition  
-- **Datasets:** CREMA-D, RAVDESS  
+<br>
 
----
+📎 <a href="https://doi.org/10.1007/s11760-026-05641-7">
+doi.org/10.1007/s11760-026-05641-7
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🕵️ Robust Deepfake Detection</h2>
+
+<h3>Scientific Reports · <i>Nature Portfolio, 2026</i></h3>
+
+<p>
+Dual-domain, two-branch architecture combining 
+<strong>spatio-temporal</strong> and <strong>frequency-domain</strong> artifacts, 
+fused via <strong>MLP-Mixer</strong>.
+</p>
+
+<table>
+<tr>
+<th>Focus</th>
+<th>Approach</th>
+</tr>
+<tr>
+<td>Domain 1</td>
+<td>Spatio-temporal</td>
+</tr>
+<tr>
+<td>Domain 2</td>
+<td>Frequency-temporal</td>
+</tr>
+</table>
+
+<br>
+
+📎 <a href="https://www.nature.com/articles/s41598-026-65079-2">
+nature.com/articles/s41598-026-65079-2
+</a>
+
+</td>
+</tr>
+</table>
+
 
 # 📫 Contact Me
 
