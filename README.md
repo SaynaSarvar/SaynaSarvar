@@ -89,7 +89,7 @@ doi.org/10.1007/s11760-026-05641-7
 
 <h2>🕵️ Robust Deepfake Detection</h2>
 
-<h3>Scientific Reports · <i>Nature Portfolio, 2026</i></h3>
+<h3>Scientific Reports · <I>Springer Nature, 2026</i></h3>
 
 <p>
 Dual-domain, two-branch architecture combining 
