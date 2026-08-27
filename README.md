@@ -101,16 +101,28 @@ fused via <strong>MLP-Mixer</strong>.
 <tr>
 <th>Focus</th>
 <th>Approach</th>
+<th>Avg Accuracy</th>
 </tr>
+
 <tr>
 <td>Domain 1</td>
-<td>Spatio-temporal</td>
+<td>SFormer Only</td>
+<td><strong>98.33%</strong></td>
 </tr>
+
 <tr>
 <td>Domain 2</td>
-<td>Frequency-temporal</td>
+<td>WaveFormer Only</td>
+<td><strong>82.90%</strong></td>
+</tr>
+
+<tr>
+<td>Fusion</td>
+<td>MLP-Mixer</td>
+<td><strong>96.97%</strong></td>
 </tr>
 </table>
+
 
 <br>
 
