@@ -82,6 +82,7 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 </td>
 </tr>
 </table>
+
 # 📄 Publications
 
 <table>
