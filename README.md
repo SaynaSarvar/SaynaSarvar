@@ -46,23 +46,42 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 
 # 🔬 Research Interests
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🧠 Core AI & Vision
-- Computer Vision
-- Transformer-based Models & Attention Mechanisms
-- Multimodal Models
+- Computer Vision  
+- Transformer-based Models & Attention Mechanisms  
+- Multimodal Models  
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎮 Learning Paradigms
-- Reinforcement Learning
-- Human-AI Interaction
+- Reinforcement Learning  
+- Human-AI Interaction  
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛰 Remote Sensing & Spatial Analysis
-- Remote Sensing
-- Aerial & Satellite Image Analysis
-- Spatio-Temporal Modeling
+- Remote Sensing  
+- Aerial & Satellite Image Analysis  
+- Spatio-Temporal Modeling  
+
+</td>
+<td width="50%" valign="top">
 
 ### 🩺 Applied AI in Science & Medicine
-- AI in Medical Imaging Analysis & Diagnostics
-- Computational Biology
+- AI in Medical Imaging Analysis & Diagnostics  
+- Computational Biology  
+
+</td>
+</tr>
+</table>
 # 📄 Publications
 
 <table>
