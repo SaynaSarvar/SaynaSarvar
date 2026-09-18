@@ -16,9 +16,7 @@
 </p>
 
 # 👋 About Me
-Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Computer Vision**.
-
-💡 Interested in **Attention mechanisms**, **Transformers**, and **Multimodal models**.  
+Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Computer Vision**, **Reinforcment Learning**.
 
 🚀 Passionate about implementing research papers, optimizing models, and building efficient AI pipelines.
 
