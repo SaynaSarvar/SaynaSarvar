@@ -46,6 +46,25 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+# 🔬 Research Interests
+
+### 🧠 Core AI & Vision
+- Computer Vision
+- Transformer-based Models & Attention Mechanisms
+- Multimodal Models
+
+### 🎮 Learning Paradigms
+- Reinforcement Learning
+- Human-AI Interaction
+
+### 🛰 Remote Sensing & Spatial Analysis
+- Remote Sensing
+- Aerial & Satellite Image Analysis
+- Spatio-Temporal Modeling
+
+### 🩺 Applied AI in Science & Medicine
+- AI in Medical Imaging Analysis & Diagnostics
+- Computational Biology
 # 📄 Publications
 
 <table>
