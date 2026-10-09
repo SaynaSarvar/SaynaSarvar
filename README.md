@@ -180,4 +180,12 @@ nature.com/articles/s41598-026-65079-2
 
 
 🚀Feel free to reach out for collaborations or research discussions!
+```html
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFD6A5,50:FF9F43,100:F97316&animation=fadeIn"
+    width="100%"
+  />
+</div>
+```
 
