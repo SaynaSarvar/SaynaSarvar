@@ -45,7 +45,7 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 # 🔬 Research Interests
-
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -82,7 +82,7 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 </td>
 </tr>
 </table>
-
+</div>
 # 📄 Publications
 
 <table>
