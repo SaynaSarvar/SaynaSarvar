@@ -10,15 +10,15 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F78E22&center=true&width=800&lines=AI+and+Computer+Vision+Researcher;Reinforcement+Learning+%26+Human-AI+Interaction;Computational+Biology+%26+Beyond"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F78E22&center=true&width=800&lines=AI+and+Computer+Vision+Researcher;Reinforcement+Learning+%26+Human-Computer+Interaction;Multimodal+Learning+%26+Information+Fusion;Machine+Learning+for+Biomedical+Data"
     alt="AI and Computer Vision Researcher"
   />
 </p>
 
 # 👋 About Me
-Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Computer Vision**, **Reinforcment Learning**.
+Hi! I'm **Sayna** — an AI researcher focusing on **Computer Vision**, **Multimodal Learning**, **Reinforcement Learning**, and **Machine Learning for Biomedical Data**.
 
-🚀 Passionate about implementing research papers, optimizing models, and building efficient AI pipelines.
+🚀 Passionate about implementing research papers, designing model architectures, and building efficient AI pipelines.
 
 ---
 # 🛠 Tech Stack
@@ -43,6 +43,7 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 # 🔬 Research Interests
 <div align="center">
@@ -50,39 +51,61 @@ Hi! I'm **Sayna** — an AI enthusiast, focusing on **Deep Learning**, **Compute
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Core AI & Vision
-- Computer Vision  
-- Transformer-based Models & Attention Mechanisms  
-- Multimodal Models  
+### 👁️ Computer Vision
+- Visual Representation Learning
+- Transformer-based Models & Attention Mechanisms
+- Video & Spatio-Temporal Understanding
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Learning Paradigms
-- Reinforcement Learning  
-- Human-AI Interaction  
+### 🔗 Multimodal Learning & Information Fusion
+- Audio–Visual Learning
+- Cross-Modal Attention & Fusion Strategies
+- Multi-Domain Feature Integration
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛰 Remote Sensing & Spatial Analysis
-- Remote Sensing  
-- Aerial & Satellite Image Analysis  
-- Spatio-Temporal Modeling  
+### 🎮 Reinforcement Learning
+- Deep & Offline RL
+- Memory-based Agents & Visual Navigation
+- Diffusion Policies
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 Applied AI in Science & Medicine
-- AI in Medical Imaging Analysis & Diagnostics  
-- Computational Biology  
+### 🤝 Human-Computer Interaction
+- Affective Computing & Emotion Recognition
+- Human-Centered AI
+- Interactive Visualization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Pattern Recognition & Machine Learning
+- Robust & Generalizable Representations
+- Signal & Frequency-Domain Analysis
+- Deepfake & Anomaly Detection
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 Machine Learning for Biomedical Data
+- Medical Image Analysis
+- Computational Biology
+- Biological Sequence Modeling
 
 </td>
 </tr>
 </table>
 </div>
+
+> 🛰 **Project experience:** I have also worked on **remote sensing** projects, including aerial & satellite image analysis and spatio-temporal modeling.
 
 # 📄 Publications
 
@@ -127,7 +150,7 @@ doi.org/10.1007/s11760-026-05641-7
 
 <h2>🕵️ Robust Deepfake Detection</h2>
 
-<h3>Scientific Reports · <I>Springer Nature, 2026</i></h3>
+<h3>Scientific Reports · <i>Springer Nature, 2026</i></h3>
 
 <p>
 Dual-domain, two-branch architecture combining 
@@ -161,7 +184,6 @@ fused via <strong>MLP-Mixer</strong>.
 </tr>
 </table>
 
-
 <br>
 
 📎 <a href="https://www.nature.com/articles/s41598-026-65079-2">
@@ -172,9 +194,7 @@ nature.com/articles/s41598-026-65079-2
 </tr>
 </table>
 
-
 # 📫 Contact Me
-
 
 <div align="center">
 
@@ -182,10 +202,7 @@ nature.com/articles/s41598-026-65079-2
 
 </div>
 
-
-
-
-🚀Feel free to reach out for collaborations or research discussions!
+🚀 Feel free to reach out for collaborations or research discussions!
 
 <div align="center">
   <img
@@ -193,5 +210,3 @@ nature.com/articles/s41598-026-65079-2
     width="100%"
   />
 </div>
-
-
