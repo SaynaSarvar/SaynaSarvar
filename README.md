@@ -77,7 +77,7 @@ Hi! I'm **Sayna** — an AI researcher focusing on **Computer Vision**, **Multim
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Human-Computer Interaction
+### 🤝 Human-AI Interaction
 - Human-Centered AI
 - Interactive Visualization
 - Affective Computing 
